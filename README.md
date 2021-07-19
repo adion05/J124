@@ -35,3 +35,14 @@ _**This is bold and italcs**_
 1. Upload an image to GitHub (Upload a new file)
 2. reference the file in your Markdown 
 3. be sure to add an alt text descriptoin to your image 
+
+![Name of the imagw][File path to the image]
+Format:![Alt text](url)
+
+
+![flowers][/images.jpeg]
+Format:![dahlia flower](https://www.almanac.com/plant/dahlias)
+
+
+
+
