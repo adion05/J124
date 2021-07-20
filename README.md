@@ -53,22 +53,19 @@ a code block
 2. reference the file in your Markdown 
 3. be sure to add an alt text descriptoin to your image 
 
-![Name of the imagw][File path to the image]
-Format:![Alt text](url)
 
 
-![flowers][/images.jpeg]
-Format:![dahlia flower](https://www.almanac.com/plant/dahlias)
-
-*this is italics*
+*this is a break from the other things*
 
 
 `!['Name I give the image','Alt text desscribes the image'](/File path to the image OR an image URL)`
 
-**Image from a .jpg file in the repo*
-!['Dahlia','Dahlia flower bloom'](/.jpg)
+**Image from a .jpg file in the repo**
+
+!['Dahlia','Dahlia flower bloom'](images.jpeg)
 
 **Image from a URL**
+
 !['Peonies bouquet','Pink peonies bouquet in a vase'](https://dy1yydbfzm05w.cloudfront.net/media/catalog/product/cache/39b52c4cabb46819553175347e38b212/f/a/famingo_peony_vase.jpg)
 
 
