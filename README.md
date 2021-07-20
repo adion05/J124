@@ -43,6 +43,6 @@ Format:![Alt text](url)
 ![flowers][/images.jpeg]
 Format:![dahlia flower](https://www.almanac.com/plant/dahlias)
 
-
+*this is italics*
 
 
