@@ -27,9 +27,9 @@ _**This is bold and italcs**_
 1. Item 1 
 2. Item 2 
 3. Item 3 
-    1. subitem 1 (YOU HAVE TO ADD TWO TABS FOR THIS SUBITEM)
-    2. TO MAKE A SUBITEM, HIT TAB TWICE TO INDENT (OR HIT SPACE FOUR TIMES)N
-    3. subitem 2 
+  1. subitem 1 (YOU HAVE TO ADD TWO TABS FOR THIS SUBITEM)
+  2. TO MAKE A SUBITEM, HIT TAB TWICE TO INDENT (OR HIT SPACE FOUR TIMES)N
+  3. subitem 2
 
 
 *Add inline code*
